@@ -146,7 +146,7 @@ header.changed-head{padding:25px 0 16px;background:#121b2e;}
 .video-img-wrap{cursor:pointer;position:relative;padding-bottom:75%;height:0;overflow:hidden;}
 .video-img{width:100%;display:block;height:auto;}
 .video-img-wrap iframe,.video-img-wrap object,.video-img-wrap embed{position:absolute;top:0;left:0;width:100.1%;height:100%;}
-.video-img-wrap:after{content:"";display:block;width:74px;height:74px;display:block;background:url(../img/video-img-play.svg?ver1.0) no-repeat;position:absolute;top:50%;left:50%;margin:-37px 0 0 -37px;border-radius:50%;transition:all 0.2s linear;-moz-transition:all 0.2s linear;-webkit-transition:all 0.2s linear;-o-transition:all 0.2s linear;}
+.video-img-wrap:after{content:"";display:block;width:75px;height:75px;display:block;background:url(../img/video-img-play.svg?ver1.0) no-repeat;position:absolute;top:50%;left:50%;margin:-37px 0 0 -37px;border-radius:50%;transition:all 0.2s linear;-moz-transition:all 0.2s linear;-webkit-transition:all 0.2s linear;-o-transition:all 0.2s linear;}
 .video-img-wrap.play-video:after{display:none;}
 .video-img-wrap:hover:after{opacity:0.8;box-shadow:0 22px 64px rgba(0, 0, 0, 0.78), 0 4px 4px rgba(0, 0, 0, 0.22);-moz-box-shadow:0 22px 64px rgba(0, 0, 0, 0.78), 0 4px 4px rgba(0, 0, 0, 0.22);-webkit-box-shadow:0 22px 64px rgba(0, 0, 0, 0.78), 0 4px 4px rgba(0, 0, 0, 0.22);}
 .enroll-consult{background:#131b2e;padding:138px 0;}
